@@ -1,0 +1,9 @@
+                precision    recall  f1-score   support
+
+Abnormal_Sperm     0.7161    0.7351    0.7255       151
+     Non-Sperm     0.9695    0.8699    0.9170       146
+  Normal_Sperm     0.7500    0.8039    0.7760       153
+
+      accuracy                         0.8022       450
+     macro avg     0.8119    0.8030    0.8062       450
+  weighted avg     0.8098    0.8022    0.8048       450
